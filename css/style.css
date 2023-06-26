@@ -324,7 +324,7 @@ border-radius: 50%;
 background-color: white;
     }
     .carousel-indicators{
-        top:270px;
+       top:100%;
     }
     .blog h2{
         font-size: 45px;
