@@ -395,6 +395,10 @@ display: flex;
 justify-content: center;
 align-items: center;
      }
+ .contact .fa-brands:hover{
+        background-color: #0078ff;
+        color: white;
+             }
         footer{
             background-color: #0078ff;
         }
